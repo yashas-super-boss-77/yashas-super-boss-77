@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @yashas-super-boss-77
-- 👀 I’m interested in coding 
+- 👀 I’m interested in coding
+- 🤖 I'm very excited to work on AI domain.
 - 🌱 I’m currently learning django, react.
 - 💞️ I’m looking to collaborate on web design and. Backend programming basically full stack work
 - 📫 How to reach me by my email yashashm77@gmail.com
